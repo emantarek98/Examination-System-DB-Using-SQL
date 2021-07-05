@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="DataSource2">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=DESKTOP-JSSA9CO\MSSQL17;Initial Catalog=new_test</ConnectString>
+    <IntegratedSecurity>true</IntegratedSecurity>
+    <Prompt>Specify a user name and password for data source DataSource2</Prompt>
+  </ConnectionProperties>
+  <DataSourceID>baf7e219-7306-4ad5-88f6-9c3435700388</DataSourceID>
+</RptDataSource>
